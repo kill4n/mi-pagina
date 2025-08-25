@@ -41,7 +41,7 @@ export default function Home() {
                   con una sólida trayectoria en el sector público. Actualmente se desempeña como Superintendente de 
                   Servicios Públicos Domiciliarios, cargo al que fue designado mediante Decreto 1957 del 27 de septiembre 
                   de 2022. Su gestión ha sido reconocida por diversos sectores como técnica, equitativa y colaborativa, 
-                  siendo considerado un "superintendente superestrella" por su capacidad de diálogo con el sector privado 
+                  siendo considerado un &ldquo;superintendente superestrella&rdquo; por su capacidad de diálogo con el sector privado 
                   y su enfoque preventivo para evitar intervenciones en empresas de servicios públicos.
                 </p>
                 
