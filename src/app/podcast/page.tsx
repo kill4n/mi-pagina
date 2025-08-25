@@ -15,12 +15,13 @@ export default function PodcastPage() {
             </div>
             
             <h2 className="font-montserrat text-2xl font-bold text-[#0396FF] mb-4">
-              Conversaciones sobre el Futuro de Colombia
+              Servicios Públicos en Diálogo
             </h2>
             <p className="font-inter text-gray-700 leading-relaxed mb-6">
-              Un espacio para dialogar sobre los temas que más nos importan: 
-              transición energética, educación pública, justicia social y el futuro 
-              que queremos construir juntos.
+              Conversaciones sobre regulación, calidad de servicios públicos, 
+              innovación en el sector y el compromiso con los usuarios. 
+              Un espacio para entender los desafíos y oportunidades en la 
+              prestación de servicios públicos domiciliarios.
             </p>
           </div>
 
@@ -30,7 +31,8 @@ export default function PodcastPage() {
                 Episodios Recientes
               </h3>
               <p className="font-inter text-gray-600 mb-4">
-                Próximamente encontrarás aquí los episodios más recientes de nuestro podcast.
+                Próximamente encontrarás aquí conversaciones sobre los últimos desarrollos 
+                en regulación de servicios públicos y temas de actualidad sectorial.
               </p>
             </div>
 
@@ -39,8 +41,8 @@ export default function PodcastPage() {
                 Invitados Especiales
               </h3>
               <p className="font-inter text-gray-600 mb-4">
-                Conversaciones con líderes, académicos y ciudadanos comprometidos 
-                con el cambio social.
+                Diálogos con empresarios del sector, expertos en regulación, 
+                representantes de usuarios y líderes en servicios públicos domiciliarios.
               </p>
             </div>
           </div>

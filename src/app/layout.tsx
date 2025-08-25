@@ -21,8 +21,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Andrés Camacho | Candidato al Senado",
-  description: "Ingeniero Electricista, Físico y líder político comprometido con el cambio social",
+  title: "Dagoberto Quiroga Collazos | Superintendente de Servicios Públicos",
+  description: "Abogado, líder en servicios públicos y administración pública con amplia experiencia en el sector gubernamental",
 };
 
 export default function RootLayout({

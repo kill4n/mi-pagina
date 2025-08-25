@@ -12,8 +12,8 @@ export default function OpinionYPrensaPage() {
               Artículos de Opinión
             </h2>
             <p className="font-inter text-gray-700 leading-relaxed mb-4">
-              Aquí encontrarás los artículos de opinión y análisis político de Andrés Camacho 
-              sobre los temas más relevantes de la actualidad nacional.
+              Análisis y reflexiones sobre regulación de servicios públicos, política pública 
+              y temas sectoriales relevantes por parte de Dagoberto Quiroga Collazos.
             </p>
           </div>
 
@@ -22,8 +22,9 @@ export default function OpinionYPrensaPage() {
               Apariciones en Medios
             </h2>
             <p className="font-inter text-gray-700 leading-relaxed mb-4">
-              Entrevistas, debates y participaciones en medios de comunicación donde 
-              Andrés Camacho ha compartido su visión sobre la política colombiana.
+              Entrevistas y participaciones en medios de comunicación donde 
+              el Superintendente comparte su visión sobre regulación, servicios públicos 
+              y temas de interés sectorial.
             </p>
           </div>
 
@@ -32,8 +33,8 @@ export default function OpinionYPrensaPage() {
               Comunicados de Prensa
             </h2>
             <p className="font-inter text-gray-700 leading-relaxed mb-4">
-              Pronunciamientos oficiales y comunicados sobre temas de coyuntura 
-              nacional e internacional.
+              Comunicados oficiales de la Superintendencia de Servicios Públicos 
+              Domiciliarios sobre regulaciones, decisiones y temas sectoriales.
             </p>
           </div>
         </div>
